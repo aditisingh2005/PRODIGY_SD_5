@@ -91,4 +91,5 @@ df.to_sql("books", conn, if_exists="replace", index=False)
 conn.close()
 print("Data saved to books.db (SQLite)")
 
-
+MS EXCEL
+https://1drv.ms/x/c/50afa94ee92e69a7/EUqvY_NrMGVGr0fjjzwC2CcBd-DeU0kvRsuqRFiRCG5cdw?e=hGdRHE
